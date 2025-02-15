@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ul{
+    position: relative;
+    left: 20px;
+}
+.relod{
+    padding: 10px;
+    margin-top: 12px;
+    background: #666;
+    border-radius: 15px;
+    color: aliceblue;
+    cursor: pointer;
+
+}
+
+.hide{
+    display: none;
+}
